@@ -23,6 +23,15 @@ I’m a **Full-Stack Developer** with over 6 years of experience crafting scalab
 
 ---
 
+## 📶 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenia&hide=contribs,issues&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenia&layout=compact&hide=java)
+
+
+
+---
+
 ## 🎨 Fun Facts About Me  
 - 🕺 When I’m not coding, you’ll find me street dancing!  
 - 🐾 Proud parent of 3 adorable cats who occasionally "help" with my work.
